@@ -10,6 +10,7 @@ Key Insights:
 EV Penetration: Identify which states are leading in EV adoption.
 Growth Trends: Track the year-over-year growth in EV sales.
 Regional Analysis: Compare state-wise performance to highlight emerging markets and regions with strong EV uptake.
+
 Methodology:The analysis was performed in Power BI, where data cleaning, aggregation, and visualization techniques were applied. Various charts and maps have been used to present the trends clearly.
 
 Purpose
